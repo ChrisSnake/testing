@@ -15,7 +15,7 @@ public class App {
     int a = 5, b = 3;
     System.out.println("5+3=" + MyMath.add(a, b));
 
-
+    System.out.println("5/3=" + MyMath.div(a, b));
   }
 
 }
