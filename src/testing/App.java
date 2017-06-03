@@ -11,6 +11,11 @@ public class App {
     System.out.println(a1.getVersion());
     System.out.println(a1.nextFunc());
 
+    // basicMath
+    int a = 5, b = 3;
+    System.out.println("5+3=" + MyMath.add(a, b));
+
+
   }
 
 }
