@@ -1,13 +1,16 @@
 package testing;
 
 public class AnotherFunc {
-	final String version = "AnotherFunc, V1";
+  final String version = "AnotherFunc, V1";
 
-	public AnotherFunc() {
-	}
+  public AnotherFunc() {}
 
-	public String getVersion() {
-		return version;
-	}
+  public String nextFunc() {
+    return "Nextfunc, after Rebase";
+  }
+
+  public String getVersion() {
+    return version;
+  }
 
 }
