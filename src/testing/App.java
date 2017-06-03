@@ -20,8 +20,6 @@ public class App {
 
     System.out.println("für pull-request");
 
-    System.out.println("nochmal pull-request, jetzt für commandline");
-
   }
 
 }
