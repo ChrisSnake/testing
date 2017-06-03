@@ -5,4 +5,7 @@ public class MyMath {
     return a + b;
   }
 
+  public static long mul(int a, int b) {
+    return a * b;
+  }
 }
